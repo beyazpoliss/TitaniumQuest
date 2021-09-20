@@ -1,0 +1,29 @@
+ENGLISH
+
+A simple quest plugin which allows a
+server admin to setup different types of quests.
+Each quest has a type,
+amount, and reward commands
+(for when it’s completed)
+which are configurable in the config.
+Types of quests are Kill Mobs, Break/Place blocks, Run Commands, Run Distance.
+
+You have 10 days to complete this,
+let me know if you have any questions or need a bit longer. (Please use sql or nosql)
+
+
+TR
+
+Bu eklenti bir gorev eklentisidir, gorevler configden ayarlanabilirler ve yeni gorev eklenebilir,
+Gorevlerin türleri vardır;
+
+Mob Oldürmek
+Blok Kırmak
+Blok Koymak
+Komut Çalıştırmak
+Koşmak
+
+Ayrıca gorevlerin odülleri vardır bu odüller ayarlanabilirler;
+
+- komut olarak
+

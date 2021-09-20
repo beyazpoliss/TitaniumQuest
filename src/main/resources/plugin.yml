@@ -1,0 +1,8 @@
+name: TitaniumQuest
+version: ${project.version}
+main: tr.beyazpolis.titaniumquest.TitaniumQuest
+api-version: 1.16
+authors: [ BeyazPolis ]
+description: The basic quest plugin.
+commands:
+  quests: {}
